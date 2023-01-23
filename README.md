@@ -1,1 +1,1 @@
-# ProductFlavour_FlavourDimension
+# FlavorDimensionsSample
